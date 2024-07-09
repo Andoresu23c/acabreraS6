@@ -5,23 +5,50 @@
              Title="EstudiantePrincipal">
     <VerticalStackLayout>
         <Label 
-            Text="Consumo de servicio web - GET"
+            Text="Consumo de servicio web - CRUD"
             FontSize="20"
             HorizontalTextAlignment="Center"/>
+
+        <!-- Encabezados -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Label Text="Código" FontAttributes="Bold" Grid.Column="0" />
+            <Label Text="Nombre" FontAttributes="Bold" Grid.Column="1" />
+            <Label Text="Apellido" FontAttributes="Bold" Grid.Column="2" />
+            <Label Text="Edad" FontAttributes="Bold" Grid.Column="3" />
+        </Grid>
+
+        <!-- Lista de Estudiantes -->
         <ListView x:Name="listaEstudiantes">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <StackLayout>
-                            <Label x:Name="lblNombre" Text="{Binding nombre}"/>
-                            <Label x:Name="lblApellido" Text="{Binding apellido}"/>
-
-                        </StackLayout>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding codigo}" Grid.Column="0" />
+                            <Label Text="{Binding nombre}" Grid.Column="1" />
+                            <Label Text="{Binding apellido}" Grid.Column="2" />
+                            <Label Text="{Binding edad}" Grid.Column="3" />
+                        </Grid>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
-
         </ListView>
-
+        <Entry x:Name="codigoEntry" Placeholder="Código" IsVisible="False" />
+        <Entry x:Name="nombreEntry" Placeholder="Nombre" />
+        <Entry x:Name="apellidoEntry" Placeholder="Apellido" />
+        <Entry x:Name="edadEntry" Placeholder="Edad" Keyboard="Numeric" />
+        <Button Text="Agregar/Actualizar" Clicked="OnAgregarActualizarClicked" />
+        <Button Text="Eliminar" Clicked="OnEliminarClicked"/>
     </VerticalStackLayout>
 </ContentPage>
