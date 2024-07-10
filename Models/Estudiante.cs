@@ -13,5 +13,5 @@ namespace acabreraS6.Models
         public string apellido { get; set; }
         public int edad { get; set; }
 
-    }
+    } 
 }
