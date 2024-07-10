@@ -8,7 +8,8 @@ namespace acabreraS6
         {
             InitializeComponent();
 
-            MainPage = new EstudiantePrincipal();
+            MainPage = new NavigationPage(new EstudiantePrincipal());
+            
         }
     }
 }

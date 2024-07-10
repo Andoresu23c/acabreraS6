@@ -24,7 +24,8 @@
         </Grid>
 
         <!-- Lista de Estudiantes -->
-        <ListView x:Name="listaEstudiantes">
+        <ListView x:Name="listaEstudiantes"
+                  ItemSelected="listaEstudiantes_ItemSelected">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
@@ -44,11 +45,8 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-        <Entry x:Name="codigoEntry" Placeholder="Código" IsVisible="False" />
-        <Entry x:Name="nombreEntry" Placeholder="Nombre" />
-        <Entry x:Name="apellidoEntry" Placeholder="Apellido" />
-        <Entry x:Name="edadEntry" Placeholder="Edad" Keyboard="Numeric" />
-        <Button Text="Agregar/Actualizar" Clicked="OnAgregarActualizarClicked" />
-        <Button Text="Eliminar" Clicked="OnEliminarClicked"/>
+        <Button x:Name="btnAgregar"
+                Text="Agregar nuevo estudiante"
+                Clicked="btnAgregar_Clicked"/>
     </VerticalStackLayout>
 </ContentPage>

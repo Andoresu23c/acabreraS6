@@ -1,73 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\",
+  "WorkspaceRootPath": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\views\\estudianteprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\users\\master\\desktop\\octavob\\acabreras6\\views\\vupdatedelete.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:views\\vupdatedelete.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\users\\master\\desktop\\octavob\\acabreras6\\views\\vupdatedelete.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:views\\vupdatedelete.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\users\\master\\desktop\\octavob\\acabreras6\\views\\estudianteprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:views\\estudianteprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\views\\estudianteprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\views\\estudianteprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:views\\estudianteprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\semana6\\utils.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:semana6\\utils.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\users\\master\\desktop\\octavob\\acabreras6\\views\\vagregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:views\\vagregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\semana6\\post.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:semana6\\post.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\users\\master\\desktop\\octavob\\acabreras6\\views\\vagregar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:views\\vagregar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\semana6\\config.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:semana6\\config.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\semana6\\utils.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:semana6\\utils.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\semana6\\post.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:semana6\\post.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\semana6\\config.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:semana6\\config.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\acabreras6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\acabreras6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:acabreras6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|c:\\universidad-israel\\appmoviles\\acabreras6\\acabreras6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\acabreras6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{7BD3FC16-EFC3-460C-94DD-3F4BC94D5945}|acabreraS6.csproj|solutionrelative:acabreras6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -83,75 +99,124 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "vUpdateDelete.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\vUpdateDelete.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\vUpdateDelete.xaml.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\vUpdateDelete.xaml.cs",
+              "RelativeToolTip": "Views\\vUpdateDelete.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:44:35.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vUpdateDelete.xaml",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\vUpdateDelete.xaml",
+              "RelativeDocumentMoniker": "Views\\vUpdateDelete.xaml",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\vUpdateDelete.xaml",
+              "RelativeToolTip": "Views\\vUpdateDelete.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T01:43:05.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vAgregar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\vAgregar.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\vAgregar.xaml.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\vAgregar.xaml.cs",
+              "RelativeToolTip": "Views\\vAgregar.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:32:43.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vAgregar.xaml",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\vAgregar.xaml",
+              "RelativeDocumentMoniker": "Views\\vAgregar.xaml",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\vAgregar.xaml",
+              "RelativeToolTip": "Views\\vAgregar.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T01:30:44.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EstudiantePrincipal.xaml.cs",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Views\\EstudiantePrincipal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\EstudiantePrincipal.xaml.cs",
               "RelativeDocumentMoniker": "Views\\EstudiantePrincipal.xaml.cs",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Views\\EstudiantePrincipal.xaml.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\EstudiantePrincipal.xaml.cs",
               "RelativeToolTip": "Views\\EstudiantePrincipal.xaml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAowEoAAAAIAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T02:16:40.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EstudiantePrincipal.xaml",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Views\\EstudiantePrincipal.xaml",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\EstudiantePrincipal.xaml",
               "RelativeDocumentMoniker": "Views\\EstudiantePrincipal.xaml",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Views\\EstudiantePrincipal.xaml",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Views\\EstudiantePrincipal.xaml",
               "RelativeToolTip": "Views\\EstudiantePrincipal.xaml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAaAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-03T02:16:37.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "config.php",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\semana6\\config.php",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\semana6\\config.php",
               "RelativeDocumentMoniker": "semana6\\config.php",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\semana6\\config.php",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\semana6\\config.php",
               "RelativeToolTip": "semana6\\config.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-09T17:13:18.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T17:13:18.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "utils.php",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\semana6\\utils.php",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\semana6\\utils.php",
               "RelativeDocumentMoniker": "semana6\\utils.php",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\semana6\\utils.php",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\semana6\\utils.php",
               "RelativeToolTip": "semana6\\utils.php",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwBEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-09T17:13:27.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T17:13:27.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "post.php",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\semana6\\post.php",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\semana6\\post.php",
               "RelativeDocumentMoniker": "semana6\\post.php",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\semana6\\post.php",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\semana6\\post.php",
               "RelativeToolTip": "semana6\\post.php",
               "ViewState": "AQIAADQAAAAAAAAAAAAQwFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-09T17:13:21.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T17:13:21.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -159,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "acabreraS6.csproj",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\acabreraS6.csproj",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\acabreraS6.csproj",
               "RelativeDocumentMoniker": "acabreraS6.csproj",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\acabreraS6.csproj",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\acabreraS6.csproj",
               "RelativeToolTip": "acabreraS6.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -171,48 +236,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Models\\Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Models\\Estudiante.cs",
               "RelativeDocumentMoniker": "Models\\Estudiante.cs",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Models\\Estudiante.cs",
               "RelativeToolTip": "Models\\Estudiante.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T02:13:45.683Z",
+              "WhenOpened": "2024-07-03T02:13:45.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T02:22:51.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-03T02:22:51.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\App.xaml",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-03T02:22:53.038Z"
+              "WhenOpened": "2024-07-03T02:22:53.038Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "MainActivity.cs",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Platforms\\Android\\MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Platforms\\Android\\MainActivity.cs",
               "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,11 +286,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "MainApplication.cs",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Platforms\\Android\\MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Platforms\\Android\\MainApplication.cs",
               "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -232,11 +298,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -244,35 +310,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T02:28:42.281Z"
+              "WhenOpened": "2024-07-03T02:28:42.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "AppShell.xaml.cs",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\AppShell.xaml.cs",
               "RelativeToolTip": "AppShell.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T02:28:44.452Z"
+              "WhenOpened": "2024-07-03T02:28:44.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Platforms\\Android\\AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
@@ -280,11 +348,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "acabreraS6",
-              "DocumentMoniker": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\acabreraS6.csproj",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\acabreraS6.csproj",
               "RelativeDocumentMoniker": "acabreraS6.csproj",
-              "ToolTip": "C:\\Universidad-Israel\\AppMoviles\\acabreraS6\\acabreraS6.csproj",
+              "ToolTip": "C:\\Users\\master\\Desktop\\OctavoB\\acabreraS6\\acabreraS6.csproj",
               "RelativeToolTip": "acabreraS6.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-03T02:13:47.121Z"
