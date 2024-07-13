@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("acabreraS6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b48653c424552546e082de15b7f162ee813bf539")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a1d04a5e5cec0a5c05617a98ae6cca538ddde5e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("acabreraS6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("acabreraS6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

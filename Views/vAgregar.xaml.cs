@@ -18,8 +18,9 @@ public partial class vAgregar : ContentPage
 			param.Add("nombre", txtNombre.Text);
 			param.Add("apellido", txtApellido.Text);
 			param.Add("edad", txtEdad.Text);
-			cliente.UploadValues("http://192.168.17.38/semana6/post.php", "POST", param);
-			Navigation.PushAsync(new EstudiantePrincipal());
+			cliente.UploadValues("http://192.168.100.70/semana6/post.php", "POST", param);
+            DisplayAlert("Alerta", "Estudiante ingresado correctamente", "Ok");
+            Navigation.PushAsync(new EstudiantePrincipal());
 		}
 		catch (Exception ex)
 		{

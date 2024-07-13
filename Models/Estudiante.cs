@@ -9,8 +9,8 @@ namespace acabreraS6.Models
     public class Estudiante
     {
         public int codigo { get; set; }
-        public string nombre { get; set; }
-        public string apellido { get; set; }
+        public string nombre { get; set; } = null!;
+        public string apellido { get; set; } = null!;
         public int edad { get; set; }
 
     } 

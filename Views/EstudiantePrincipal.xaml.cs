@@ -8,7 +8,7 @@ namespace acabreraS6.Views;
 
 public partial class EstudiantePrincipal : ContentPage
 {
-    private const string url = "http://192.168.17.38/semana6/post.php";
+    private const string url = "http://192.168.100.70/semana6/post.php";
     private readonly HttpClient client = new HttpClient();
     private ObservableCollection<Estudiante> estud;
     public EstudiantePrincipal()
